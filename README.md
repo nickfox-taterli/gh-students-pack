@@ -10,7 +10,7 @@
 ![学生包](./img0.jpg)
  
 ------
-# 学习资源(这么多学习平台还学不会编程,好意思吗?)
+# 学习资源
 
  - SymfonyCasts:3个月PHP开发课程.
  - FrontendMasters:6个月Web开发课程.
@@ -48,7 +48,6 @@
  - Amazone AWS:~~150美金优惠~~,100美金的Stater账号,有学生证的上啊,没有的迟早也要二审,二审不过就杀.
  - Netwise:1年服务器托管,需要自备服务器,寄过去费用比什么都高.(基本没用)
  - Storyscript:~~一年Business Plan,微服务引擎.(每月10美金配额限制)~~,暂时无法申请.
- - DeepScan:JavaScript脚本应用平台,6个月,需要GitHub创建对应repo.
 
 ------
 # 移动应用
@@ -65,7 +64,10 @@
  - Termius:SSH/SFTP管理工具,免费高级计划,支持手机补全,多端同步.
  - Datadog:Pro Account 2年,服务器监视工具,就像给VPS上一个云平台一样的面板.
  - EverSQL:6个月授权,SQL自动优化工具.
-
+ - PopSQL:协作式的SQL编辑器(有在线版和客户端版),编写查询,可视化数据并共享结果,可以在线连接远端数据库,其实也支持Mongodb之类的.
+ - SimpleAnalytics:网站统计,类似以前CNZZ什么的,可以免费1年隐藏统计数据,创建时候不能选Private,但是后续可以选.
+ - SQLGate:SQL IDE,据说很强大,1年标准订阅.(目前授权失效)
+ 
 ------
 # 私有库支持
 
@@ -77,6 +79,11 @@
  - BetterCodeHub:私有代码库支持,用于分析代码完善度,是否有完善的测试案例等等.
  - CodeScene:私有仓库支持,检查代码中是否存在风险.
  - Coveralls:私有库支持(10个/1年),代码覆盖率检查,不显示任何订阅,但是确实可以看到私有库并操作.
+ - DeepScan:分析JavaScript脚本靠不靠谱的平台,6个月,需要GitHub创建对应repo.
+ - DeepSource:给Python和Go的代码静态分析,检查错误,安全分析的工具,Pro订阅.
+ - Imgbot:私有库支持,自动优化Repo里的图片,大概最没存在感,全自动的.
+ - Restyled:私有仓库支持,让你每个提交看起来很强迫症(符合格式),要brittany.yaml文件指导.
+ - Tower:Git客户端,Pro订阅,1年期.
 
 ------
 # 邮件服务
@@ -92,6 +99,8 @@
  - Phrase:翻译管理工具,Lite Plan 6个月.
  - Weglot:1年Pro Plan,翻译管理,但是包含了自动翻译和人工修正,每个月可以翻译20万词.
  - Crowdin:1年Bronze Plan,翻译管理工具.
+ - Lingohub:翻译管理,1万字,也是一个要自己翻的工具.
+ - POEditor:翻译管理,1万字,是个编辑器,编辑语言包的.
 
 ------
 # 应用集成
@@ -104,7 +113,7 @@
  - Transloadit:免费Startup Plan,可以免费处理10GB数据,文件转码工具.
  - NetLicensing:免费Basic Plan,网络授权服务,激活服务器,发布自己的软件用的.(人工二审.)
  - Cryptolens:免费的授权服务器,支持发行10个密钥,支持无限用户.
-
+ 
 ------
 # 开发集成
 
@@ -119,6 +128,9 @@
  - Appfigures:1年Grow Plan,App商店数据分析工具.
  - AccessLint:自动化的Web可访问性测试引入您的开发工作流程,大概就是增加私有库支持吧,暂时无法登录.(价值49美金/月,无限期)
  - Datree:规范化Git提交,每次提交前自动化检查一些内容,Pro订阅.(336美金/每年,无限期)
+ - LambdaTest:浏览器测试,跟BrowserStack很类似,,自动化集成用的也是Selenium,一年订阅.(似乎没Preview版本浏览器)
+ - SOFY:又是自动化测试,但是这个似乎针对移动平台的,Browserstack也有针对移动平台的支持,但是这个说自己是加入了机器学习(人工智障?)的测试平台,只有6个月免费,测试时间也小于Browserstack好多.
+ - Themeisle:页面生成器,其实是一个很牛逼的WP主题.
 
 ------
 # 开发工具
@@ -134,6 +146,7 @@
  - Icons8:3个月内可以下载所有图标,照片.插图和音乐.
  - Iconscout:1年内,每个月可以下载60个高级图标.
  - Typeform:1年Professional Plan,创建交互式表单的工具.(需要绑卡.)
+ - Pageclip:免费表单工具,给自己的静态网站添加表单功能.
 
 ------
 # 桌面软件
@@ -147,6 +160,7 @@
  - Stripe:收钱工具,前1000美金收款不收手续费.(需美国公司信息激活.)
  - Scrapinghub:1个永久免费的爬虫,无限的团队成员,项目或请求,爬虫支持1小时的抓取时间,并且数据保留7天.(暂时无法激活.)
  - GitHub校园专家:支持用户在校园内建立技术社区,对于普通人用途不大,需要审核.
+ - Luminati:提供代理IP的软件(4000万个),100美金额度,但是全部屏蔽国内流量,国内连注册都成问题,得到的代理IP也是屏蔽国内IP.
 
 
   [1]: https://raw.githubusercontent.com/nickfox-taterli/gh-students-pack/master/img0.jpg "学生包"
