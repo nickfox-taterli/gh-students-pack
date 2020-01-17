@@ -13,10 +13,11 @@
 ------
 # 相关链接
 
- - [关于GitHub学生包][1]
- - [GitHub 学生包新成员][2]
- - [GitHub学生包又更新了!][3]
- - [GH学生包又双叒叕更新了][4]
+ - [GitHub学生包主页][1]
+ - [关于GitHub学生包][2]
+ - [GitHub 学生包新成员][3]
+ - [GitHub学生包又更新了!][4]
+ - [GH学生包又双叒叕更新了][5]
 
 ------
 # 学习资源
@@ -172,7 +173,8 @@
  - Luminati:提供代理IP的软件(4000万个),100美金额度,但是全部屏蔽国内流量,国内连注册都成问题,得到的代理IP也是屏蔽国内IP.
 
 
-  [1]: https://www.taterli.com/5612/ 
-  [2]: https://www.taterli.com/5777/
-  [3]: https://www.taterli.com/6011/
-  [4]: https://www.taterli.com/6413/
+  [1]: https://education.github.com/pack/offers
+  [2]: https://www.taterli.com/5612/ 
+  [3]: https://www.taterli.com/5777/
+  [4]: https://www.taterli.com/6011/
+  [5]: https://www.taterli.com/6413/
