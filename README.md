@@ -9,7 +9,15 @@
  7. **目前GH学生包提供94项福利,你又用了多少呢**
  
 ![学生包](./img0.jpg)
- 
+
+------
+# 相关链接
+
+ - [关于GitHub学生包][1]
+ - [GitHub 学生包新成员][2]
+ - [GitHub学生包又更新了!][3]
+ - [GH学生包又双叒叕更新了][4]
+
 ------
 # 学习资源
 
@@ -164,4 +172,7 @@
  - Luminati:提供代理IP的软件(4000万个),100美金额度,但是全部屏蔽国内流量,国内连注册都成问题,得到的代理IP也是屏蔽国内IP.
 
 
-  [1]: https://raw.githubusercontent.com/nickfox-taterli/gh-students-pack/master/img0.jpg "学生包"
+  [1]: https://www.taterli.com/5612/ 
+  [2]: https://www.taterli.com/5777/
+  [3]: https://www.taterli.com/6011/
+  [4]: https://www.taterli.com/6413/
