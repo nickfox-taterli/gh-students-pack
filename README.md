@@ -91,7 +91,7 @@
  - Coveralls:私有库支持(10个/1年),代码覆盖率检查,不显示任何订阅,但是确实可以看到私有库并操作.
  - DeepScan:分析JavaScript脚本靠不靠谱的平台,6个月,需要GitHub创建对应repo.
  - DeepSource:给Python和Go的代码静态分析,检查错误,安全分析的工具,Pro订阅.
- - Imgbot:私有库支持,自动优化Repo里的图片,大概最没存在感,全自动的.
+ - Imgbot:私有库支持,自动优化Repo里的图片,大概最没存在感,全自动的,以PR方式提交修稿.
  - Restyled:私有仓库支持,让你每个提交看起来很强迫症(符合格式),要brittany.yaml文件指导.
  - Tower:Git客户端,Pro订阅,1年期.
 
