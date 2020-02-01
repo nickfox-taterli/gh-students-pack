@@ -56,7 +56,7 @@
  - DigitalOcean:50美元优惠券,只能用于新用户,使用后有效期一年.
  - ~~Microsoft Azure:100美金优惠券(风控严格),需要干净手机号,干净IP申请.(优惠码)~~
  - Microsoft Azure:100美金优惠(风控严格),绑定GitHub账号,并随时验证(需2020年2月之后申请的账号
- - Amazone AWS:100美金的Stater(可能不同机构托管)账号,有学生证的上啊,没有的迟早也要二审,二审不过就杀,参加网络考试并正确可以获得额外积分 [考试积分][6]
+ - Amazone AWS:100美金的Stater(可能不同机构托管)账号,有学生证的上啊,没有的迟早也要二审,二审不过就杀,参加网络考试并正确可以获得额外积分([考试积分][6]/[网络延迟][7])
  - Netwise:1年服务器托管,需要自备服务器,寄过去费用比什么都高.(基本没用)
  - Storyscript:~~一年Business Plan,微服务引擎.(每月10美金配额限制)~~,暂时无法申请.
 
@@ -180,3 +180,4 @@
   [4]: https://www.taterli.com/6011/
   [5]: https://www.taterli.com/6413/
   [6]: https://www.taterli.com/wp-content/uploads/2020/02/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200201221902.jpg
+  [7]: http://ping.edufree.me/
