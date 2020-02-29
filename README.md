@@ -142,6 +142,10 @@
  - LambdaTest:浏览器测试,跟BrowserStack很类似,,自动化集成用的也是Selenium,一年订阅,似乎激活依然提示学生身份异常?(似乎没Preview版本浏览器)
  - SOFY:又是自动化测试,但是这个似乎针对移动平台的,Browserstack也有针对移动平台的支持,但是这个说自己是加入了机器学习(人工智障?)的测试平台,只有6个月免费,测试时间也小于Browserstack好多.
  - Themeisle:页面生成器,其实是一个很牛逼的WP主题.
+ - Blockchair:区块链处理相关,支持100,000个免费请求,一年有效期,但是部分API每日前1440免费.
+ - DailyBot:团队协作工具,1年商业版,需要绑定其他账号!
+ - Raygun:针对Web和移动应用程序的错误,Startup套餐一年,通过注册钩子方式实现,不同于其他框架.
+ - Sider:通过自动分析每个Pull请求,最大化您的工程团队的生产力.
 
 ------
 # 开发工具
@@ -149,6 +153,13 @@
  - Next.tech:1年云计算环境,容器化的,不持久,配置较低,但是速度较好,用于学习一流,支持在线版VSC,感觉良好,通过再注册12个号还可以给自己延期.
  - Repl.it:1年Hacker Plan,无限私有项目,并且可以邀请很多人一起编程.
  - Adafruit:我记得这个是个做模块的,怎么也合作了,大概就是买某些板子30%折扣,还有一个Adafruit IO(IOT平台),给的折扣码.
+ - Jaamly:App Store开发人员辅助,Startup Plan 6个月,软件链接:https://apps.apple.com/app/jaamly-publish-your-apps/id1401367875 (仅美国)
+ - Kodika:拖放即可构建iOS应用程序,Kodika Unlimited Pro 6个月,不过苹果软件都是在苹果电脑设计的!
+ - MongoDB:$200 MongoDB Atlas 额度,这么出名的数据库还需要我介绍嘛?给的优惠码(2个)!
+ - Polypane:针对开发者的浏览器,1年有效期.
+ - Unity:游戏设计引擎,还需要我说吗?学生身份有效就有效,给的是Unity Student Plan.
+ - Xojo:一种跨平台开发工具,用于设计桌面软件.
+ - Yakindu:一个集成的建模环境,1年专业版.
 
 ------
 # 设计资源
@@ -158,6 +169,7 @@
  - Iconscout:1年内,每个月可以下载60个高级图标.
  - Typeform:1年Professional Plan,创建交互式表单的工具.(需要绑卡.)
  - Pageclip:免费表单工具,给自己的静态网站添加表单功能.
+ - Customerly:SaaS平台,6个月的Pro套餐,支持WordPress集成.(右下角客服平台那种)
 
 ------
 # 桌面软件
@@ -172,7 +184,9 @@
  - Scrapinghub:1个永久免费的爬虫,无限的团队成员,项目或请求,爬虫支持1小时的抓取时间,并且数据保留7天.(暂时无法激活.)
  - GitHub校园专家:支持用户在校园内建立技术社区,对于普通人用途不大,需要审核.
  - Luminati:提供代理IP的软件(4000万个),100美金额度,但是全部屏蔽国内流量,国内连注册都成问题,得到的代理IP也是屏蔽国内IP,需要人工二审.
-
+ - Dashlane:基于云的密码管理器,浏览器插件,半年Premium计划,提供安全VPN通道加密密码,这样就算是黑客监听WIFI都找不到你密码!
+ - Freshpaint:一种营销整合工具,学生身份内永久有效.
+ - Baremetrics:营销平台,每个月支持2.5K收款分析,可以API对接,可以开发发卡平台.
 
   [1]: https://education.github.com/pack/offers
   [2]: https://www.taterli.com/5612/ 
