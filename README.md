@@ -156,7 +156,7 @@
  - Adafruit:我记得这个是个做模块的,怎么也合作了,大概就是买某些板子30%折扣,还有一个Adafruit IO(IOT平台),给的折扣码.
  - Jaamly:App Store开发人员辅助,Startup Plan 6个月,软件链接:https://apps.apple.com/app/jaamly-publish-your-apps/id1401367875 (仅美国)
  - Kodika:拖放即可构建iOS应用程序,Kodika Unlimited Pro 6个月,不过苹果软件都是在苹果电脑设计的!
- - MongoDB:$200 MongoDB Atlas 额度,这么出名的数据库还需要我介绍嘛?给的优惠码(2个)!
+ - MongoDB:$200 MongoDB Atlas 额度,这么出名的数据库还需要我介绍嘛?给的优惠码(2个),需信用卡绑定(我遇到了卡照片二验),优惠抵扣.
  - Polypane:针对开发者的浏览器,1年有效期.
  - Unity:游戏设计引擎,还需要我说吗?学生身份有效就有效,给的是Unity Student Plan.
  - Xojo:一种跨平台开发工具,用于设计桌面软件.
