@@ -18,6 +18,7 @@
  - [GitHub 学生包新成员][3]
  - [GitHub学生包又更新了!][4]
  - [GH学生包又双叒叕更新了][5]
+ - [GitHub 包又新增成员了啊!][8]
 
 ------
 # 学习资源
@@ -195,3 +196,4 @@
   [5]: https://www.taterli.com/6413/
   [6]: https://www.taterli.com/wp-content/uploads/2020/02/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200201221902.jpg
   [7]: http://ping.edufree.me/
+  [8]: https://www.taterli.com/6738/
