@@ -13,6 +13,7 @@
 ------
 # 相关链接
 
+ - [福利大全(镜像站)][9]
  - [GitHub学生包主页][1]
  - [关于GitHub学生包][2]
  - [GitHub 学生包新成员][3]
@@ -197,3 +198,4 @@
   [6]: https://www.taterli.com/wp-content/uploads/2020/02/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200201221902.jpg
   [7]: http://ping.edufree.me/
   [8]: https://www.taterli.com/6738/
+  [9]: https://gh.fastio.me/index.html
