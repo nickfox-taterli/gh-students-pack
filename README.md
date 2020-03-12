@@ -163,6 +163,7 @@
  - Unity:游戏设计引擎,还需要我说吗?学生身份有效就有效,给的是Unity Student Plan.
  - Xojo:一种跨平台开发工具,用于设计桌面软件.
  - Yakindu:一个集成的建模环境,1年专业版.
+ - Arduino:一堆优惠码和6个月的Create Maker套餐.
 
 ------
 # 设计资源
